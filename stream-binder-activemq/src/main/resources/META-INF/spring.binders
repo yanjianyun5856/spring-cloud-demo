@@ -1,0 +1,2 @@
+activemq :\
+com.yjy.stream.binder.activemq.ActiveMQStreamBinderAutoConfiguration
